@@ -56,7 +56,7 @@
 
                 editor.addMenuItems({
                     selectall: {
-                        label: 'Select all',
+                        label: editor.lang.selectall.toolbar,
                         group: 'selectallcontextmenu',
                         order: 21,
                         command: 'selectallcontextmenu'
