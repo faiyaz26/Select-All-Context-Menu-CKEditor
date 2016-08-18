@@ -8,3 +8,5 @@ Plugin Author: Ahmad Faiyaz ( faiyaz26 [at] gmail [dot] com)
 Dependencies:
 
 This plugin requires the context menu plugin of CKEditor
+
+CKEditor Plugin Link : http://ckeditor.com/addon/selectallcontextmenu
